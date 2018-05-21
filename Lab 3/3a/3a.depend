@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1441255530 source:e:\comsc-210\lab 3\3a\staticarraydriver.cpp
+	<iostream>
+	<cassert>
+	"StaticArray.h"
+	"StaticArray.h"
+
+1441254920 e:\comsc-210\lab 3\3a\staticarray.h
+	<vector>
+
+1441587276 source:g:\comsc-210\lab 3\3a\staticarraydriver.cpp
+	<iostream>
+	<cassert>
+	"StaticArray.h"
+	"StaticArray.h"
+
+1441591756 g:\comsc-210\lab 3\3a\staticarray.h
+	<vector>
+

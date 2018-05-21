@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1448918730 source:g:\comsc-210\lab 14\14b\dvcschedule14b.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<algorithm>
+	<cstring>
+	<ctime>
+	"DynamicArray.h"
+	"SortableDynamicArray.h"
+
+1443427190 g:\comsc-210\lab 14\14b\dynamicarray.h
+	<vector>
+
+1448918402 g:\comsc-210\lab 14\14b\sortabledynamicarray.h
+	<vector>
+

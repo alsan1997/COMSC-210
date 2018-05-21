@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1444011422 source:g:\comsc-210\lab 7\7acalc\calculator7.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"Stack.h"
+
+1443999430 g:\comsc-210\lab 7\7acalc\stack.h
+
+1445220364 source:c:\users\aldos\desktop\thecomsc\comsc-210\lab 7\7acalc\calculator7.cpp
+	<iostream>
+	<stack>
+	<string>
+	<cstdlib>
+	"Stack.h"
+
+1443995830 c:\users\aldos\desktop\thecomsc\comsc-210\lab 7\7acalc\stack.h
+

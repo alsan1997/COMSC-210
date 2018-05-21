@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1443508440 source:g:\comsc-210\lab 6\6a\linkedarraydriver.cpp
+	<iostream>
+	<vector>
+	<cassert>
+	"LinkedArray.h"
+
+1443501308 g:\comsc-210\lab 6\6a\linkedarray.h
+	<vector>
+
+1443502006 source:e:\comsc-210\lab 6\6a\linkedarraydriver.cpp
+	<iostream>
+	<vector>
+	<cassert>
+	"LinkedArray.h"
+
+1443501308 e:\comsc-210\lab 6\6a\linkedarray.h
+	<vector>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1442183290 source:g:\comsc-210\lab 4\4b\mydynamicarray.cpp
+	<iostream>
+	"DynamicArray.h"
+	<cstdlib>
+
+1442182946 g:\comsc-210\lab 4\4b\dynamicarray.h
+	<vector>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1441587442 source:g:\comsc-210\lab 3\3b\mystaticarray.cpp
+	<iostream>
+	"StaticArray.h"
+	<cstdlib>
+
+1441587472 g:\comsc-210\lab 3\3b\staticarray.h
+	<vector>
+

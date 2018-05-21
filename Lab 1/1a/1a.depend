@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1440046122 source:e:\comsc-210\lab 1\1a\road.cpp
+	"Road.h"
+
+1440475648 e:\comsc-210\lab 1\1a\road.h
+
+1440290254 source:e:\comsc-210\lab 1\1a\roaddriver.cpp
+	<iostream>
+	<cassert>
+	"Road.h"
+	"Road.h"
+
+1440289804 source:g:\comsc-210\lab 1\1a\road.cpp
+	"Road.h"
+	<iomanip>
+	<iostream>
+
+1440290952 g:\comsc-210\lab 1\1a\road.h
+
+1440290254 source:g:\comsc-210\lab 1\1a\roaddriver.cpp
+	<iostream>
+	<cassert>
+	"Road.h"
+	"Road.h"
+

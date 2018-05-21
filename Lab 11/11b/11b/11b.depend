@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1447059090 source:f:\11\11b\11b\priorityqueuebigoh.cpp
+	<iostream>
+	<string>
+	<cassert>
+	<cmath>
+	<ctime>
+	"PriorityQueue.h"
+
+1447057894 f:\11\11b\11b\priorityqueue.h
+
+1447059090 source:g:\comsc-210\lab 11\11b\11b\priorityqueuebigoh.cpp
+	<iostream>
+	<string>
+	<cassert>
+	<cmath>
+	<ctime>
+	"PriorityQueue.h"
+
+1447057894 g:\comsc-210\lab 11\11b\11b\priorityqueue.h
+

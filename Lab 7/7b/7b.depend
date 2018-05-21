@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1444002510 source:g:\comsc-210\lab 7\7b\queuedriver.cpp
+	<iostream>
+	<vector>
+	<cassert>
+	"Queue.h"
+
+1444002556 g:\comsc-210\lab 7\7b\queue.h
+
